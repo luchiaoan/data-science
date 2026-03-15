@@ -1,1 +1,10 @@
-Hello Data Science!
+## Requirements
+
+The following Python libraries were used in this project:
+
+pandas  
+numpy  
+matplotlib  
+seaborn  
+scikit-learn  
+tabula-py
